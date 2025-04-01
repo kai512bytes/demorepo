@@ -1,4 +1,4 @@
 this is a test
 this is upstream edit.
 
-brand new text
+del new line
