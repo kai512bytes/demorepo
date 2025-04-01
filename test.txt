@@ -1,3 +1,4 @@
 this is a test
 this is upstream edit.
 git fetch test
+git fetch check and merge
